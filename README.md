@@ -6,6 +6,12 @@
 
 Присылайте предложения, какие еще темы добавить в тетрадку 🤓
 
+PS: картинка на основе ИИ-генерации
+- персонажи моделька с хаггинфейса Duskfallcrew/duskfall-s-manga-aesthetic-model
+- интерьеры и декорации - Adobe FireFly
+- итоговый монтаж в фотошопе
+
+
 ![spark_manga](https://github.com/artefucktor/spark_in_examples/assets/77234640/21c17876-5c7d-4ccb-85b0-2b3ec86cc577)
 
 ![spark_manga2](https://github.com/artefucktor/spark_in_examples/assets/77234640/d982ec6e-7e52-45bb-ac63-ab644b59f484)
